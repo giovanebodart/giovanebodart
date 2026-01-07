@@ -1,87 +1,78 @@
-👋 Olá, eu sou Giovane Peres
+# 👋 Olá, eu sou Giovane Peres
 
-💻 Desenvolvedor Backend em formação
-📚 Estudante de Java, Spring Boot e Arquitetura de APIs
-🚀 Apaixonado por aprender e construir soluções bem estruturadas
+💻 Desenvolvedor Backend em formação  
 
-🧠 Sobre mim
+📚 Estudante de Java, Spring Boot e Arquitetura de APIs  
+
+🚀 Apaixonado por aprender e construir soluções bem estruturadas  
+
+
+## 🧠 Sobre mim
 
 Sou um desenvolvedor em constante aprendizado, com foco em backend, boas práticas de código e organização de projetos.
 Atualmente estudo e desenvolvo aplicações utilizando Java + Spring Boot, aplicando conceitos como:
 
-Arquitetura em camadas
+- Arquitetura em camadas
 
-APIs REST
+- APIs REST
 
-DTOs e validação
+- Tratamento global de exceções
 
-Tratamento global de exceções
+- Integração com banco de dados
 
-Integração com banco de dados
-
-Versionamento com Git e GitHub
+- Versionamento com Git e GitHub
 
 Meu objetivo é evoluir profissionalmente e contribuir com projetos reais.
 
-🛠️ Tecnologias & Ferramentas
-🚀 Backend
+## 🛠️ Tecnologias & Ferramentas  
 
-Java
+### 🚀 Backend
 
-Spring Boot
+- Java
 
-Spring Data JPA
+- Spring Boot
 
-Hibernate
+- Spring Data JPA
 
-REST APIs
+- REST APIs
 
-Swagger / OpenAPI
+### 🗄️ Banco de Dados
 
-🗄️ Banco de Dados
+- PostgreSQL
 
-PostgreSQL
+- SQL
 
-SQL
+- JPA / ORM
 
-JPA / ORM
+### 🔧 Ferramentas
 
-🔧 Ferramentas
+- Git & GitHub
 
-Git & GitHub
+- Insomnia / Postman
 
-Insomnia / Postman
+- IntelliJ IDEA
 
-IntelliJ IDEA
+- Maven
 
-Maven
+### 🌱 Em aprendizado
 
-🌱 Em aprendizado
+- Spring Security
 
-Spring Security
+- JWT
 
-JWT
-
-Redis
-
-Kafka
 
 Docker
 
-Mensageria e filas
+## 📈 O que estou buscando
 
-📈 O que estou buscando
+- Primeira oportunidade como Desenvolvedor Backend / Java
 
-Primeira oportunidade como Desenvolvedor Backend / Java
+- Estágio ou vaga Júnior
 
-Estágio ou vaga Júnior
+- Projetos colaborativos para ganhar experiência prática
 
-Projetos colaborativos para ganhar experiência prática
+## 📫 Como me encontrar
 
-📫 Como me encontrar
+[LinkedIn](adicione aqui quando quiser)
 
-GitHub: github.com/giovanebodart
-
-LinkedIn: (adicione aqui quando quiser)
-
-Email: (opcional)
+[Email]()
