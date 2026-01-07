@@ -75,4 +75,4 @@ Docker
 
 [LinkedIn](adicione aqui quando quiser)
 
-[Email]()
+Email: giovanebodart.work@gmail.com
