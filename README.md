@@ -70,6 +70,6 @@ Meu objetivo é evoluir profissionalmente e contribuir com projetos reais.
 
 ## 📫 Como me encontrar
 
-[LinkedIn](adicione aqui quando quiser)
+[LinkedIn](https://www.linkedin.com/in/giovane-bodart-0a0605360/)
 
 Email: giovanebodart.work@gmail.com
