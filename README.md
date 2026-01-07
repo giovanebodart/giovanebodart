@@ -56,12 +56,9 @@ Meu objetivo é evoluir profissionalmente e contribuir com projetos reais.
 
 ### 🌱 Em aprendizado
 
-- Spring Security
+- SOLID
 
-- JWT
-
-
-Docker
+- Design Patterns
 
 ## 📈 O que estou buscando
 
